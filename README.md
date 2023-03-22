@@ -1,0 +1,1 @@
+# Smart-home-project-by-AVR-microcontroller-ATMEGA32
